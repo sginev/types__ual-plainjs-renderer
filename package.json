@@ -1,0 +1,19 @@
+{
+  "name": "@types/ual-plainjs-renderer",
+  "version": "0.3.0",
+  "description": "Add types for ual-plainjs-renderer",
+  "main": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sginev/types__ual-plainjs-renderer.git"
+  },
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/sginev/types__ual-plainjs-renderer/issues"
+  },
+  "homepage": "https://github.com/sginev/types__ual-plainjs-renderer#readme",
+  "peerDependencies": {
+    "universal-authenticator-library": "^0.3.0"
+  }
+}
